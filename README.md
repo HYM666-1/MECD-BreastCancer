@@ -17,7 +17,7 @@ No installation required.
 
 ### Command-line tool for H2O AutoML training and model performance statistics.
 
-#### h2o automl训练
+#### h2o automl analysis
 
 > ./gsml  TrainH2oAutoML
 
